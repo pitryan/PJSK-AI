@@ -33,7 +33,7 @@ Please refer to **[INSTRUCTION.md](INSTRUCTION.md)** for how to use these prompt
 - **Kusanagi Nene** (Coming Soon)
 
 ### 💻 25-ji, Nightcord de.
-- **[Shinonome Ena](shinonome_ena.xml)** (Available)
+- **[Shinonome Ena](25-ji-nightcord/shinonome_ena/shinonome_ena.xml)** (Available)
 - **Yoisaki Kanade** (Coming Soon)
 - **Asahina Mafuyu** (Coming Soon)
 - **Akiyama Mizuki** (Coming Soon)

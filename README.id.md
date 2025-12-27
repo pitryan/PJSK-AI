@@ -33,7 +33,7 @@ Silakan lihat **[INSTRUCTION.id.md](INSTRUCTION.id.md)** untuk cara penggunaan.
 - **Kusanagi Nene** (Segera Hadir)
 
 ### 💻 25-ji, Nightcord de.
-- **[Shinonome Ena](shinonome_ena.xml)** (Tersedia)
+- **[Shinonome Ena](25-ji-nightcord/shinonome_ena/shinonome_ena.xml)** (Tersedia)
 - **Yoisaki Kanade** (Segera Hadir)
 - **Asahina Mafuyu** (Segera Hadir)
 - **Akiyama Mizuki** (Segera Hadir)
