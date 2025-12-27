@@ -4,7 +4,7 @@ A collection of system instructions (prompts) designed to give Google Gemini a d
 
 The main focus of this repository is to create "Waifu" personas—reimagining these characters in a Real World AU (Alternate Universe) context where they interact with you as a significant other or close partner, while keeping their core personality traits intact.
 
-[🇮🇩 Baca versi Bahasa Indonesia di sini](README.id.md)
+[🇮🇩 For Indonesian's version can read here ->](README.id.md)
 
 ## 📂 Available Characters
 
