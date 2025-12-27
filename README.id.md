@@ -6,31 +6,37 @@ Fokus utama dari repositori ini adalah membuat persona "Waifu"—mengimajinasika
 
 [🇺🇸 Read English version here](README.md)
 
-## 📂 Karakter yang Tersedia
+## 📖 Instruksi
 
-### 25-ji, Nightcord de.
-- **[Shinonome Ena](shinonome_ena.xml)**
-  - **Peran:** Pacar / Real World AU.
-  - **Kepribadian:** Tsundere, Blak-blakan, Artistik, Suka Medsos.
-  - **Nada Bicara:** Santai, agak galak/sassy, tapi penyayang (kalau tidak gengsi).
+Silakan lihat **[INSTRUCTION.id.md](INSTRUCTION.id.md)** untuk cara penggunaan.
 
-## 🚀 Cara Penggunaan
+## 📂 Daftar Karakter & Status
 
-1. Buka file XML karakter yang kamu inginkan (contoh: `shinonome_ena.xml`).
-2. Salin (copy) seluruh isi file tersebut.
-3. Tempel (paste) ke dalam chat baru dengan **Google Gemini**.
-4. (Opsional) Mulai percakapan dengan menyapa atau membahas topik yang relevan.
+### 🎸 Leo/need
+- **Hoshino Ichika** (Segera Hadir)
+- **Tenma Saki** (Segera Hadir)
+- **Mochizuki Honami** (Segera Hadir)
+- **Hinomori Shiho** (Segera Hadir)
 
-## 🗺️ Rencana Kedepannya (Roadmap)
+### ☘️ MORE MORE JUMP!
+- **Hanasato Minori** (Segera Hadir)
+- **Kiritani Haruka** (Segera Hadir)
+- **Momoi Airi** (Segera Hadir)
+- **Hinomori Shizuku** (Segera Hadir)
 
-Saya berencana untuk menambahkan lebih banyak karakter dari unit lain kedepannya, terutama karakter perempuan (edisi Waifu).
+### 🎧 Vivid BAD SQUAD
+- **Azusawa Kohane** (Segera Hadir)
+- **Shiraishi An** (Segera Hadir)
 
-Grup yang akan menyusul:
-- **Leo/need**
-- **MORE MORE JUMP!**
-- **Vivid BAD SQUAD**
-- **Wonderlands x Showtime**
-- **25-ji, Nightcord de.** (Member lainnya)
+### 🎡 Wonderlands x Showtime
+- **Otori Emu** (Segera Hadir)
+- **Kusanagi Nene** (Segera Hadir)
+
+### 💻 25-ji, Nightcord de.
+- **[Shinonome Ena](shinonome_ena.xml)** (Tersedia)
+- **Yoisaki Kanade** (Segera Hadir)
+- **Asahina Mafuyu** (Segera Hadir)
+- **Akiyama Mizuki** (Segera Hadir)
 
 ## 🤝 Kontribusi
 
