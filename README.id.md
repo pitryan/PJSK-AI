@@ -34,7 +34,7 @@ Silakan lihat **[INSTRUCTION.id.md](INSTRUCTION.id.md)** untuk cara penggunaan.
 
 ### 💻 25-ji, Nightcord de.
 - **[Shinonome Ena](25-ji-nightcord/shinonome_ena/shinonome_ena.xml)** (Tersedia)
-- **Yoisaki Kanade** (Segera Hadir)
+- **[Yoisaki Kanade](25-ji-nightcord/yoisaki_kanade/yoisaki_kanade.xml)** (Tersedia)
 - **Asahina Mafuyu** (Segera Hadir)
 - **Akiyama Mizuki** (Segera Hadir)
 
