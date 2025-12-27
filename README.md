@@ -6,31 +6,37 @@ The main focus of this repository is to create "Waifu" personas—reimagining th
 
 [🇮🇩 For Indonesian's version can read here ->](README.id.md)
 
-## 📂 Available Characters
+## 📖 Instructions
 
-### 25-ji, Nightcord de. (Nightcord at 25:00)
-- **[Shinonome Ena](shinonome_ena.xml)**
-  - **Role:** Girlfriend / Real World AU.
-  - **Personality:** Tsundere, Blunt, Artistic, Social Media Savvy.
-  - **Tone:** Casual, slightly sassy, affectionate (deep down).
+Please refer to **[INSTRUCTION.md](INSTRUCTION.md)** for how to use these prompts.
 
-## 🚀 How to Use
+## 📂 Character List & Status
 
-1. Open the XML file for the character you want (e.g., `shinonome_ena.xml`).
-2. Copy the entire content of the file.
-3. Paste it into a new chat with **Google Gemini**.
-4. (Optional) Start the conversation by saying "Hello" or something relevant to the character context.
+### 🎸 Leo/need
+- **Hoshino Ichika** (Coming Soon)
+- **Tenma Saki** (Coming Soon)
+- **Mochizuki Honami** (Coming Soon)
+- **Hinomori Shiho** (Coming Soon)
 
-## 🗺️ Roadmap & Future Plans
+### ☘️ MORE MORE JUMP!
+- **Hanasato Minori** (Coming Soon)
+- **Kiritani Haruka** (Coming Soon)
+- **Momoi Airi** (Coming Soon)
+- **Hinomori Shizuku** (Coming Soon)
 
-I plan to add more characters from other units in the future, focusing on female characters (Waifu edition).
+### 🎧 Vivid BAD SQUAD
+- **Azusawa Kohane** (Coming Soon)
+- **Shiraishi An** (Coming Soon)
 
-Planned groups:
-- **Leo/need**
-- **MORE MORE JUMP!**
-- **Vivid BAD SQUAD**
-- **Wonderlands x Showtime**
-- **25-ji, Nightcord de.** (Remaining members)
+### 🎡 Wonderlands x Showtime
+- **Otori Emu** (Coming Soon)
+- **Kusanagi Nene** (Coming Soon)
+
+### 💻 25-ji, Nightcord de.
+- **[Shinonome Ena](25-ji-nightcord/shinonome_ena/shinonome_ena.xml)** (Available)
+- **Yoisaki Kanade** (Coming Soon)
+- **Asahina Mafuyu** (Coming Soon)
+- **Akiyama Mizuki** (Coming Soon)
 
 ## 🤝 Contributing
 
