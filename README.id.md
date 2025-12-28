@@ -25,10 +25,10 @@ Silakan lihat **[INSTRUCTION.id.md](INSTRUCTION.id.md)** untuk panduan cara meng
 - **[Hinomori Shiho](leo-need/hinomori_shiho/hinomori_shiho.xml)** (Tersedia)
 
 ### ☘️ MORE MORE JUMP!
-- **Hanasato Minori** (Segera)
-- **Kiritani Haruka** (Segera)
-- **Momoi Airi** (Segera)
-- **Hinomori Shizuku** (Segera)
+- **[Hanasato Minori](more-more-jump/hanasato_minori/hanasato_minori.xml)** (Tersedia)
+- **[Kiritani Haruka](more-more-jump/kiritani_haruka/kiritani_haruka.xml)** (Tersedia)
+- **[Momoi Airi](more-more-jump/momoi_airi/momoi_airi.xml)** (Tersedia)
+- **[Hinomori Shizuku](more-more-jump/hinomori_shizuku/hinomori_shizuku.xml)** (Tersedia)
 
 ### 🎧 Vivid BAD SQUAD
 - **Azusawa Kohane** (Segera)

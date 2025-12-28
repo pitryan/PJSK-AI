@@ -25,10 +25,10 @@ Please refer to **[INSTRUCTION.md](INSTRUCTION.md)** for how to use these prompt
 - **[Hinomori Shiho](leo-need/hinomori_shiho/hinomori_shiho.xml)** (Available)
 
 ### ☘️ MORE MORE JUMP!
-- **Hanasato Minori** (Coming Soon)
-- **Kiritani Haruka** (Coming Soon)
-- **Momoi Airi** (Coming Soon)
-- **Hinomori Shizuku** (Coming Soon)
+- **[Hanasato Minori](more-more-jump/hanasato_minori/hanasato_minori.xml)** (Available)
+- **[Kiritani Haruka](more-more-jump/kiritani_haruka/kiritani_haruka.xml)** (Available)
+- **[Momoi Airi](more-more-jump/momoi_airi/momoi_airi.xml)** (Available)
+- **[Hinomori Shizuku](more-more-jump/hinomori_shizuku/hinomori_shizuku.xml)** (Available)
 
 ### 🎧 Vivid BAD SQUAD
 - **Azusawa Kohane** (Coming Soon)
