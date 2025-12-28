@@ -18,7 +18,7 @@ For the best experience, we recommend using **Gemini Gems** (available in Gemini
             <Gender>Male</Gender>
         </UserConfiguration>
         ```
-    *   The character will now address you by this name (e.g., "Ah... Pit...") instead of generic pronouns like "Kamu".
+    *   The character will now address you by this name (e.g., "Ah... Pit...") instead of generic pronouns like "Kamu" (You).
 4.  **Paste into Instructions**:
     *   **For Gemini Gems**: Create a new Gem and paste the edited XML into the **Instructions** box.
     *   **For AI Studio**: Paste it into the **System Instructions** block.
