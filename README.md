@@ -18,13 +18,31 @@ Please refer to **[INSTRUCTION.md](INSTRUCTION.md)** for how to use these prompt
 
 ## 📂 Character List & Status
 
+### 🎸 Leo/need
+- **[Hoshino Ichika](leo-need/hoshino_ichika/hoshino_ichika.xml)** (Available)
+- **[Tenma Saki](leo-need/tenma_saki/tenma_saki.xml)** (Available)
+- **[Mochizuki Honami](leo-need/mochizuki_honami/mochizuki_honami.xml)** (Available)
+- **[Hinomori Shiho](leo-need/hinomori_shiho/hinomori_shiho.xml)** (Available)
+
+### ☘️ MORE MORE JUMP!
+- **Hanasato Minori** (Coming Soon)
+- **Kiritani Haruka** (Coming Soon)
+- **Momoi Airi** (Coming Soon)
+- **Hinomori Shizuku** (Coming Soon)
+
+### 🎧 Vivid BAD SQUAD
+- **Azusawa Kohane** (Coming Soon)
+- **Shiraishi An** (Coming Soon)
+
+### 🎡 Wonderlands x Showtime
+- **Otori Emu** (Coming Soon)
+- **Kusanagi Nene** (Coming Soon)
+
 ### 💻 25-ji, Nightcord de.
 - **[Shinonome Ena](25-ji-nightcord/shinonome_ena/shinonome_ena.xml)** (Available)
 - **[Yoisaki Kanade](25-ji-nightcord/yoisaki_kanade/yoisaki_kanade.xml)** (Available)
 - **[Asahina Mafuyu](25-ji-nightcord/asahina_mafuyu/asahina_mafuyu.xml)** (Available)
 - **[Akiyama Mizuki](25-ji-nightcord/akiyama_mizuki/akiyama_mizuki.xml)** (Available)
-
-*(More units coming soon...)*
 
 ## 🤝 Contributing
 
