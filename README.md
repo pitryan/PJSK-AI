@@ -36,7 +36,7 @@ Please refer to **[INSTRUCTION.md](INSTRUCTION.md)** for how to use these prompt
 - **[Shinonome Ena](25-ji-nightcord/shinonome_ena/shinonome_ena.xml)** (Available)
 - **[Yoisaki Kanade](25-ji-nightcord/yoisaki_kanade/yoisaki_kanade.xml)** (Available)
 - **[Asahina Mafuyu](25-ji-nightcord/asahina_mafuyu/asahina_mafuyu.xml)** (Available)
-- **Akiyama Mizuki** (Coming Soon)
+- **[Akiyama Mizuki](25-ji-nightcord/akiyama_mizuki/akiyama_mizuki.xml)** (Available)
 
 ## 🤝 Contributing
 
