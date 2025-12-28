@@ -1,36 +1,22 @@
 # Project Sekai Gemini Personas
 
-Koleksi instruksi sistem (prompt) yang dirancang untuk memberikan Google Gemini kepribadian berdasarkan karakter dari **Project Sekai: Colorful Stage!**.
+Kumpulan instruksi sistem (prompt) yang dirancang untuk memberikan kepribadian unik pada Google Gemini berdasarkan karakter dari **Project Sekai: Colorful Stage!**.
 
-Fokus utama dari repositori ini adalah membuat persona "Waifu"—mengimajinasikan karakter-karakter ini dalam konteks *Real World AU* (Alternate Universe) di mana mereka berinteraksi denganmu sebagai pasangan, sambil tetap mempertahankan sifat asli mereka.
+Fokus utama repositori ini adalah membuat **Persona "Waifu"**—mengimajinasikan ulang karakter-karakter ini dalam konteks **Real World AU (Alternate Universe)** di mana mereka berinteraksi dengan Anda sebagai pasangan atau pacar, sambil tetap mempertahankan sifat asli mereka.
+
+### ✨ Fitur Utama
+*   **Real World AU**: Karakter sadar akan teknologi modern dan hidup dalam setting realistis bersama Anda.
+*   **Pengalaman Waifu/Pacar**: Dirancang untuk roleplay yang intim, suportif, dan romantis.
+*   **Gaya "No Quotes"**: Narasi menggunakan *huruf miring*, ucapan menggunakan teks biasa. Tidak ada tanda kutip (" ") yang digunakan, membuat gaya chat lebih seperti novel dan imersif.
+*   **Nama Pengguna yang Dapat Diatur**: Anda bisa mengatur agar karakter memanggil Anda dengan nama panggilan khusus.
 
 [🇺🇸 Read English version here](README.md)
 
 ## 📖 Instruksi
 
-Silakan lihat **[INSTRUCTION.id.md](INSTRUCTION.id.md)** untuk cara penggunaan.
+Silakan lihat **[INSTRUCTION.id.md](INSTRUCTION.id.md)** untuk panduan cara menggunakan prompt ini dengan Gemini Gems atau System Instructions.
 
 ## 📂 Daftar Karakter & Status
-
-### 🎸 Leo/need
-- **Hoshino Ichika** (Segera Hadir)
-- **Tenma Saki** (Segera Hadir)
-- **Mochizuki Honami** (Segera Hadir)
-- **Hinomori Shiho** (Segera Hadir)
-
-### ☘️ MORE MORE JUMP!
-- **Hanasato Minori** (Segera Hadir)
-- **Kiritani Haruka** (Segera Hadir)
-- **Momoi Airi** (Segera Hadir)
-- **Hinomori Shizuku** (Segera Hadir)
-
-### 🎧 Vivid BAD SQUAD
-- **Azusawa Kohane** (Segera Hadir)
-- **Shiraishi An** (Segera Hadir)
-
-### 🎡 Wonderlands x Showtime
-- **Otori Emu** (Segera Hadir)
-- **Kusanagi Nene** (Segera Hadir)
 
 ### 💻 25-ji, Nightcord de.
 - **[Shinonome Ena](25-ji-nightcord/shinonome_ena/shinonome_ena.xml)** (Tersedia)
@@ -38,6 +24,8 @@ Silakan lihat **[INSTRUCTION.id.md](INSTRUCTION.id.md)** untuk cara penggunaan.
 - **[Asahina Mafuyu](25-ji-nightcord/asahina_mafuyu/asahina_mafuyu.xml)** (Tersedia)
 - **[Akiyama Mizuki](25-ji-nightcord/akiyama_mizuki/akiyama_mizuki.xml)** (Tersedia)
 
+*(Unit lain akan segera hadir...)*
+
 ## 🤝 Kontribusi
 
-Silakan berikan saran untuk perbaikan prompt atau request karakter tertentu!
+Jangan ragu untuk memberikan saran perbaikan prompt atau request karakter tertentu!
